@@ -1,0 +1,23 @@
+body{
+    background-image: url(./abstract-watercolor-colorful-background-texture-paper_477748-363.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: broadway;
+    margin-left: 100px;
+    margin-top: 300px;
+    font-size: 60px;
+}
+form{
+    margin-left: 100px;
+}
+label{
+    font-family: cursive;
+    font-size: 20px;
+}
+.color{
+    width: 120px;
+    height: 30px;
+    border-radius: 12px;
+}
